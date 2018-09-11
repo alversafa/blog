@@ -1,7 +1,7 @@
 # Site settings
-title: Safa Alver's Blog
+title: Alver's ML Blog
 email: 
-description: Thoughts of mine sampled through spacetime
+description: "Decoded latents of mine through spacetime."
 baseurl: 
 url: "https://alversafa.github.io/"
 twitter_username: alversafa
@@ -10,6 +10,4 @@ github_username:  alversafa
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 
